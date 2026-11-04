@@ -1,0 +1,41 @@
+body {
+font-family: Arial, sans-serif;
+background-color: #eaf2ff;
+text-align: center;
+padding: 40px;
+}
+
+h1 {
+color: #345995;
+font-size: 30px;
+}
+
+p {
+color: #444;
+font-size: 18px;
+}
+
+#pergunta {
+background-color: white;
+padding: 25px;
+margin: 30px auto;
+max-width: 450px;
+border-radius: 12px;
+font-size: 20px;
+color: #333;
+box-shadow: 0 3px 8px rgba(0,0,0,0.1);
+}
+
+button {
+background-color: #345995;
+color: white;
+border: none;
+padding: 15px 25px;
+border-radius: 8px;
+font-size: 16px;
+cursor: pointer;
+}
+
+button:hover {
+background-color: #243f70;
+}
